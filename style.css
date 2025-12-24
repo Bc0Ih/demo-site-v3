@@ -138,8 +138,6 @@ ul{
     text-align: center;
 }
 
-/* 明日(12/24)レスポンシブやる */
-
 @media screen and (max-width: 1024px) {
     .inner {
         padding: 0 20px;
